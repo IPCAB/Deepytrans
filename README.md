@@ -1,0 +1,2 @@
+# Deepytrans
+使用DeeplX项目提供的免费API实现超出5000字的文章英译汉
